@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
-char *ssid = "VIVO-9B28";
-char *password = "57601B9B28";
+char *ssid = "SSID";
+char *password = "PASSWORD";
 
 void setup() {
   Serial.begin(115200);
